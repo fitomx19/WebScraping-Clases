@@ -36,4 +36,4 @@ Y claro una copia de su JSON de la base de datos! :D
 
 Los datos recopilados se presentan únicamente para fines educativos, y no se debe utilizar con fines comerciales o para cualquier otra finalidad. El uso de los datos recopilados es responsabilidad exclusiva del usuario, y no nos hacemos responsables de cualquier daño o perjuicio que pueda derivarse de su uso. Si tiene alguna pregunta o inquietud sobre el uso de los datos recopilados, por favor contáctenos a través de m.adolfohuerta@gmail.com."
 
-Recuerda que es importante que aclares el uso que se le dará a los datos recopilados, para evitar cualquier malentendido o confusión en el futuro.
+El uso de los datos es meramente educativo y demostrativo
