@@ -32,4 +32,8 @@ Y claro una copia de su JSON de la base de datos! :D
 ---------------------
 
 
-Todas estas prácticas fueron unicamente realizadas para fines educativos , no se busca lucrar en ningún momento , atentar contra la propiedad algunas de las instituciones o empresas aqui tratadas. 
+"Los datos que se presentan a continuación fueron recopilados mediante web scraping de Chedraui, Soriana y del Poder Judicial del Estado de Morelos. No podemos garantizar la exactitud de los datos recopilados, ya que están sujetos a cambios y actualizaciones constantes. Este proyecto no está afiliado ni respaldado por Chedraui, Soriana ni el Poder Judicial del Estado de Morelos.
+
+Los datos recopilados se presentan únicamente para fines educativos, y no se debe utilizar con fines comerciales o para cualquier otra finalidad. El uso de los datos recopilados es responsabilidad exclusiva del usuario, y no nos hacemos responsables de cualquier daño o perjuicio que pueda derivarse de su uso. Si tiene alguna pregunta o inquietud sobre el uso de los datos recopilados, por favor contáctenos a través de m.adolfohuerta@gmail.com."
+
+Recuerda que es importante que aclares el uso que se le dará a los datos recopilados, para evitar cualquier malentendido o confusión en el futuro.
