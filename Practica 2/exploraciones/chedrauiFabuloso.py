@@ -22,6 +22,7 @@ def exploracion():
         "excludeSwitches", ['enable-automation'])
     options.add_experimental_option('useAutomationExtension', False)
     options.add_argument('--disable-blink-features=AutomationControlled')
+    options.add_argument('--lang=en_US.utf-8')
     
     driver = Edge(options=options)
     driver = webdriver.Edge(PATH)    
@@ -67,7 +68,7 @@ def exploracion():
 
             producto = {
                 "precio": a['price'],
-                "busqueda": "Mayonesa",
+                "busqueda": "Fabuloso",
                 "nombre": a['name'],
                 "url": ulr,
                 "tienda": "Soriana",
