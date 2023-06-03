@@ -1,7 +1,6 @@
 
 beautifulsoup4==4.11.1
 bs4==0.0.1
-es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.5.0/es_core_news_sm-3.5.0-py3-none-any.whl
 ipykernel==6.20.2
 ipython==8.8.0
 jupyter_client==7.4.9
