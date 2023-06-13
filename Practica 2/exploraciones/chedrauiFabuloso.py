@@ -39,11 +39,8 @@ def exploracion():
     html = driver.page_source
     # iterar 20 veces para obtener los 20 productos de la pagina web
     for x in range(20):
-        datos = "/html/body/div[1]/div[3]/div/wainclude/div[1]/div[3]/div[2]/div/div[" + \
-            str(x)+"]/div[1]/div/div[1]/a/img"
-
-        url = "/html/body/div[1]/div[3]/div/wainclude/div[1]/div[3]/div[2]/div/div[" + \
-            str(x)+"]/div[1]/div/div[1]/a"
+        datos ='/html/body/div[1]/div[3]/div/div[2]/div[3]/div[2]/div/div['+str(x)+']/div[1]/div/div[1]/a/img'
+        url = "/html/body/div[1]/div[3]/div/div[2]/div[3]/div[2]/div/div['+str(x)+']/div[1]/div/div[1]/a"
 
         try:
 
